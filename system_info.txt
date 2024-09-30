@@ -1,0 +1,2 @@
+Hostname: DESKTOP-SO3I2J1
+Platform: win32
